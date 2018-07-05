@@ -2,7 +2,7 @@
 
 > Nuxt.js project
 
-#预览地址
+# 预览地址
 >https://zxy12666.github.io/nuxtDemo/
 
 ## Build Setup
