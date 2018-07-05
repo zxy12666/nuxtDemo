@@ -3,7 +3,7 @@
     <div>
       <app-logo/>
       <h1 class="title">
-        helloworld
+        张翔宇
       </h1>
       <h2 class="subtitle">
         Nuxt.js project
