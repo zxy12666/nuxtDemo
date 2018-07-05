@@ -14,6 +14,9 @@ module.exports = {
     ],
 
   },
+  router: {
+    middleware: ['stats']
+  },
   css:['~assets/css/normailze.css'],
   /*
   ** Customize the progress bar color

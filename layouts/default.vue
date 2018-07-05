@@ -1,5 +1,6 @@
 <template>
   <div>
+    <p>张翔宇的NUXT练习</p>
     <nuxt/>
   </div>
 </template>
