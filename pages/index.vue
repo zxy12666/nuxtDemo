@@ -6,7 +6,7 @@
         张翔宇
       </h1>
       <h2 class="subtitle">
-        Nuxt.js project
+        Nuxt.js projects
       </h2>
       <div class="links">
         <a
